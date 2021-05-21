@@ -5,7 +5,6 @@ from PyQt4.QtCore import QUrl
 from PyQt4.QtWebKit import QWebView
 
 class MyBrowser(QtGui.QDialog):
-  self.setWindowTitle("Main Browser - Privacy Simplified!")
   def __init__(self, parent=None):
     QtGui.QWidget.__init__(self, parent)
     QWebView.__init__(self)

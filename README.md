@@ -1,6 +1,6 @@
 # Main Web Browser
 
-[![Website](https://img.shields.io/badge/WWW-Website-lightgrey)
+[![Website](https://img.shields.io/badge/WWW-Website-lightgrey)](https://github.com/RodneyByte/wwwmain)
 
 ## Introduction
 

@@ -5,10 +5,10 @@ from PyQt4.QtCore import QUrl
 from PyQt4.QtWebKit import QWebView
 
 try:
-_fromUtf8 = QtCore.QString.fromUtf8
-except AttributeError:
-def _fromUtf8(s):
-return s
+  _fromUtf8 = QtCore.QString.fromUtf8
+  except AttributeError:
+    def _fromUtf8(s):
+      return s
 
 try:
 _encoding = QtGui.QApplication.UnicodeUTF8
